@@ -1,0 +1,90 @@
+
+body
+{
+    margin: auto;
+}
+.header
+{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+}
+.bandeau
+{
+    background-image: url("https://www.francebleu.fr/s3/cruiser-production/2023/05/5228d840-ad76-4c29-873e-a1a24676852d/1200x680_sc_intell.jpg");
+    height: 80vh;
+    padding: 3px;
+}
+.nav
+{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 80px;
+    width: 550px;
+
+}
+.bigtitle
+{
+    color: white;
+    font-size: 70px;
+    display: flex;
+    padding: 50px 70px;
+} 
+.firstsection
+{
+    padding: 120px 50px;
+    background-color: rgb(32, 160, 215);
+    
+}
+.onepartie
+{
+    display: flex;
+}
+.oneimg
+{
+    width: 300px;
+}
+.onetext
+{
+    padding: 0px 50px;
+    font-size: 30px;
+}
+.twopartie
+{
+    background-color: rgb(195, 199, 204);
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px;
+    font-size: 23px;
+}
+.threepartie
+{
+    display: flex;
+    font-size: 30px;
+    margin-right: 50px;
+}
+.twoimg
+{
+    width: 400px;
+}
+.fourpartie
+{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}   
+.threeimg
+{
+    width: 400px;
+}
+.onehyperlien
+{
+    color:rgb(255, 255, 255);
+    padding: 0px 50px;
+}
+.auteur
+{
+    text-align: center;
+    padding: 100px;
+    font-size: 25px;
+}

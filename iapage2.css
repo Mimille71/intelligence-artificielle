@@ -1,0 +1,25 @@
+
+body
+{
+    margin: auto;
+    background-color:rgb(32, 160, 215);
+}
+h1
+{
+    text-align: center;
+}
+.div
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img
+{
+    width: 400px;
+}
+.retour
+{
+    color:black;
+    padding: 0px 70px;
+}
